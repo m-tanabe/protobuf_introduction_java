@@ -1,6 +1,6 @@
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.protobuf.InvalidProtocolBufferException;
-import com.sectoin02.models.Person;
+import com.sectoin01_02.models.Person;
 
 public class PerformanceTest {
     public static void main(String[] args) {
