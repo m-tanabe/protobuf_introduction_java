@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "com.sectoin07.models";
+
+message UserRequest{
+  int32  user_id = 1;
+}
+
+message UserResponse{
+  string name = 1;
+  int32 age = 2;
+  string address = 3;
+  string phone = 4;
+}
+
+service UserService{
+  rpc GetUserInfo(UserRequest) returns(UserResponse);
+}
