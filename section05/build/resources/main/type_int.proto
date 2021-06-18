@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "com.section05.models";
+
+message IntTest{
+  int32 data_int32 = 1;
+  int64 data_int64 = 2;
+  uint32 data_uint32 = 3;
+  uint64 data_uint64 = 4;
+  sint32 data_sint32 = 5;
+  sint64 data_sint64 = 6;
+  fixed32 data_fixed32 = 7;
+  fixed64 data_fixed64 = 8;
+  sfixed32 data_sfixed32 = 9;
+  sfixed64 data_sfixed64 = 10;
+}
