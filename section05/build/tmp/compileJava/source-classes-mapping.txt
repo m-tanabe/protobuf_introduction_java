@@ -3,6 +3,8 @@ proto/main/java/com/section05/models/PersonOuterClass.java
 proto/main/java/com/section05/models/BloodType.java
  com.section05.models.BloodType
  com.section05.models.BloodType$1
+PersonDemo.java
+ PersonDemo
 proto/main/java/com/section05/models/Address.java
  com.section05.models.Address
  com.section05.models.Address$1
@@ -18,5 +20,3 @@ proto/main/java/com/section05/models/Person.java
  com.section05.models.Person$Builder
  com.section05.models.Person$CarsDefaultEntryHolder
  com.section05.models.Person$CompanyInfoCase
-PersonDemo.java
- PersonDemo
