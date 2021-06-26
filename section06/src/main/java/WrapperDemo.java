@@ -1,6 +1,6 @@
 import com.google.protobuf.Int32Value;
-import com.section05.models.IntTest;
-import com.section05.models.WrapperIntTest;
+import com.section06.models.IntTest;
+import com.section06.models.WrapperIntTest;
 
 public class WrapperDemo {
     public static void main(String[] args) {

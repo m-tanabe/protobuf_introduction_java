@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-option java_multiple_files = true;
-option java_package = "com.section05.models";
-
-message PhonesData{
-  repeated string phones = 1;     //電話番号
-}

@@ -1,4 +1,4 @@
-import com.section05.models.CarInfo;
+import com.section06.models.CarInfo;
 
 import java.util.HashMap;
 import java.util.Map;

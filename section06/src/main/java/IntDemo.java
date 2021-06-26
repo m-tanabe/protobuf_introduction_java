@@ -1,4 +1,4 @@
-import com.section05.models.IntTest;
+import com.section06.models.IntTest;
 
 public class IntDemo {
     public static void main(String[] args) {

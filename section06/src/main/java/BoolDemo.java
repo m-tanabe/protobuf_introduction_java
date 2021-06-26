@@ -1,4 +1,4 @@
-import com.section05.models.BoolTest;
+import com.section06.models.BoolTest;
 
 public class BoolDemo {
     public static void main(String[] args) {

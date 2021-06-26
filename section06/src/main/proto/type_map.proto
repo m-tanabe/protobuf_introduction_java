@@ -1,7 +1,7 @@
 syntax = "proto3";
 
 option java_multiple_files = true;
-option java_package = "com.section05.models";
+option java_package = "com.section06.models";
 
 message CarInfo{
   map<int32, string> cars = 1;    //所有している車(年式 / 車名)

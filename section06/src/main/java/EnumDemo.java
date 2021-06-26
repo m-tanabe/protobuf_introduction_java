@@ -1,5 +1,5 @@
-import com.section05.models.BloodType;
-import com.section05.models.Person;
+import com.section06.models.BloodType;
+import com.section06.models.Person;
 
 public class EnumDemo {
     public static void main(String[] args) {

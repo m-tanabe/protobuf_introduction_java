@@ -1,4 +1,4 @@
-import com.section05.models.Company;
+import com.section06.models.Company;
 
 public class OneofDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-import com.section05.models.FloatDoubleTest;
+import com.section06.models.FloatDoubleTest;
 
 public class FloatDoubleDemo {
     public static void main(String[] args) {

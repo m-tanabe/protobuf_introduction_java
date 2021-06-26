@@ -1,5 +1,5 @@
 import com.google.protobuf.ByteString;
-import com.section05.models.BytesTest;
+import com.section06.models.BytesTest;
 
 public class ByteDemo {
     public static void main(String[] args) {

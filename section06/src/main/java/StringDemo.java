@@ -1,4 +1,4 @@
-import com.section05.models.StringTest;
+import com.section06.models.StringTest;
 
 public class StringDemo {
     public static void main(String[] args) {

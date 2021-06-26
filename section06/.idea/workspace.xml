@@ -4,7 +4,148 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83e6914-f295-449c-8121-29c2ecdedd9d" name="Default Changelist" comment="" />
+    <list default="true" id="a83e6914-f295-449c-8121-29c2ecdedd9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/section05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/section05.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/section05.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/BoolDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/BoolDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ByteDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ByteDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/EnumDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/EnumDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/FloatDoubleDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/FloatDoubleDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/IntDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/IntDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/MapDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/OneofDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/OneofDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/RepeatedDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/RepeatedDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/StringDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/StringDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/WrapperDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/WrapperDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/BloodType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/BoolTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/BoolTest$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/BoolTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/BoolTestOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/BytesTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/BytesTest$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/BytesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/BytesTestOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/CarInfo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/CarInfo$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/CarInfo$CarsDefaultEntryHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/CarInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/CarInfoOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/Company$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/Company$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/Company$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/Company$CompanyInfoCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/Company.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/CompanyOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/FieldOneof.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/FieldRepeated.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/FloatDoubleTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/FloatDoubleTest$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/FloatDoubleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/FloatDoubleTestOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/IntTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/IntTest$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/IntTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/IntTestOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/Person$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/Person$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/PersonOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/PhonesData$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/PhonesData$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/PhonesData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/PhonesDataOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/StringTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/StringTest$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/StringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/StringTestOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/TypeBool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/TypeByte.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/TypeEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/TypeFloatDouble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/TypeInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/TypeMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/TypeString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/TypeWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/WrapperIntTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/WrapperIntTest$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/WrapperIntTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/section05/models/WrapperIntTestOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/BloodType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/BoolTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/BoolTestOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/BytesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/BytesTestOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/CarInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/CarInfoOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/CompanyOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/FieldOneof.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/FieldRepeated.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/FloatDoubleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/FloatDoubleTestOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/IntTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/IntTestOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/PersonOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/PhonesData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/PhonesDataOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/StringTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/StringTestOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/TypeBool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/TypeByte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/TypeEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/TypeFloatDouble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/TypeInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/TypeMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/TypeString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/TypeWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/WrapperIntTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/section05/models/WrapperIntTestOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/field_oneof.proto" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/field_oneof.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/field_repeated.proto" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/field_repeated.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/type_bool.proto" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/type_bool.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/type_byte.proto" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/type_byte.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/type_enum.proto" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/type_enum.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/type_float_double.proto" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/type_float_double.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/type_int.proto" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/type_int.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/type_map.proto" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/type_map.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/type_string.proto" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/type_string.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/type_wrapper.proto" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/type_wrapper.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BoolDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ByteDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ByteDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EnumDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EnumDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FloatDoubleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FloatDoubleDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IntDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IntDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OneofDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OneofDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RepeatedDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RepeatedDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WrapperDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WrapperDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/proto/field_oneof.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/proto/field_oneof.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/proto/field_repeated.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/proto/field_repeated.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/proto/type_bool.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/proto/type_bool.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/proto/type_byte.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/proto/type_byte.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/proto/type_enum.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/proto/type_enum.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/proto/type_float_double.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/proto/type_float_double.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/proto/type_int.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/proto/type_int.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/proto/type_map.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/proto/type_map.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/proto/type_string.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/proto/type_string.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/proto/type_wrapper.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/proto/type_wrapper.proto" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,24 +167,7 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="section05" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="section05" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="section05" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="section05" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="other" type="c8890929:TasksNode$1" />
+                <item name="section06" type="f1a62948:ProjectNode" />
               </path>
             </expand>
             <select />
@@ -71,38 +195,32 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.MapDemo">
-    <configuration name="EnumDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EnumDemo" />
-      <module name="section05.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+  <component name="RunManager" selected="Gradle.section06 [compileJava]">
+    <configuration name="section06 [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MapDemo" />
-      <module name="section05.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OneofDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OneofDemo" />
-      <module name="section05.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RepeatedDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RepeatedDemo" />
-      <module name="section05.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="section05 [compileJava]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="section06 [compileJava]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -125,11 +243,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OneofDemo" />
-        <item itemvalue="Gradle.section05 [compileJava]" />
-        <item itemvalue="Application.MapDemo" />
-        <item itemvalue="Application.RepeatedDemo" />
-        <item itemvalue="Application.EnumDemo" />
+        <item itemvalue="Gradle.section06 [compileJava]" />
+        <item itemvalue="Gradle.section06 [clean]" />
       </list>
     </recent_temporary>
   </component>
@@ -143,5 +258,16 @@
       <updated>1624010480545</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
